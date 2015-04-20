@@ -1,0 +1,4 @@
+[
+    { "keys": ["alt+;"], "command": "trailing_punctuation", "args": {"char": ";"} },
+    { "keys": ["alt+,"], "command": "trailing_punctuation", "args": {"char": ","} }
+]
